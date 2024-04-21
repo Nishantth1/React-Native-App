@@ -19,6 +19,9 @@ yarn start
 ```
 ## Screenshots
 ![WhatsApp Image 2024-04-20 at 17 30 35_3722547b](https://github.com/Nishantth1/React-Native-App/assets/97899868/28ff5215-213f-4c28-869b-d71e68756639)
+![WhatsApp Image 2024-04-20 at 17 30 31_f213b159](https://github.com/Nishantth1/React-Native-App/assets/97899868/0f1e23bd-c182-42fa-869f-e00a40ba9c41)
+
+
 
 ## Step 2: Start your Application
 
