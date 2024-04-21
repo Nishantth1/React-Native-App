@@ -17,6 +17,8 @@ npm start
 # OR using Yarn
 yarn start
 ```
+## Screenshots
+![WhatsApp Image 2024-04-20 at 17 30 35_3722547b](https://github.com/Nishantth1/React-Native-App/assets/97899868/28ff5215-213f-4c28-869b-d71e68756639)
 
 ## Step 2: Start your Application
 
